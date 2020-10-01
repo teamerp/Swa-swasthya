@@ -1,4 +1,4 @@
-Health Care App dediacted to detecting medical facilities near someone whilst providing useful information regarding the said facilities.
+Health Care App dedicated to detecting medical facilities near someone whilst providing useful information regarding the said facilities.
 
 
 All ideas are much appreciated!! :)
